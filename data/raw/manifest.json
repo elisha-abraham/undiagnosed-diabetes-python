@@ -1,0 +1,47 @@
+{
+  "retrieved_utc": "2026-11-11T17:51:18+00:00",
+  "source": "NHANES August 2021 - August 2023, National Center for Health Statistics",
+  "base_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/",
+  "files": {
+    "DEMO_L.xpt": {
+      "description": "Demographics, sample weights and survey design variables",
+      "bytes": 2582160,
+      "sha256": "ca4374a158b493b8b0163e1388da21d57a18d1b9cecff2aa4e2fa2bec494fe23"
+    },
+    "DIQ_L.xpt": {
+      "description": "Diabetes questionnaire: has a doctor told you that you have diabetes?",
+      "bytes": 847600,
+      "sha256": "9535a023673ae869afae19d842d8679e06f6a464606ac15900686b41ef05090f"
+    },
+    "GHB_L.xpt": {
+      "description": "Glycohemoglobin (HbA1c), measured from a blood sample",
+      "bytes": 174000,
+      "sha256": "67aee0353160e2392dc0a33bece99b90764a630c76d82415ac4639105ad9dd03"
+    },
+    "BMX_L.xpt": {
+      "description": "Body measures: weight, height, BMI, waist",
+      "bytes": 1563200,
+      "sha256": "44440c416d9ad709e8b1708a5975378ab4d5b18edc39eb5015c2ae7186500170"
+    },
+    "BPXO_L.xpt": {
+      "description": "Blood pressure, measured three times",
+      "bytes": 696720,
+      "sha256": "189aa9bed689d2c69cf8d780b01de85073276fea5694dd52cdf696229f9054a6"
+    },
+    "BPQ_L.xpt": {
+      "description": "Blood pressure and cholesterol questionnaire",
+      "bytes": 409680,
+      "sha256": "0acde3af0526c375942fe0735e3bf69a0422bcbc606f98a478209d2f47baa4b5"
+    },
+    "HIQ_L.xpt": {
+      "description": "Health insurance",
+      "bytes": 455840,
+      "sha256": "dc380a8c8f36b3261998fa6df44267978818912bfd9518e9426156de9ee0d59f"
+    },
+    "HUQ_L.xpt": {
+      "description": "Hospital utilisation and access to care",
+      "bytes": 276080,
+      "sha256": "55af27d92bfb1397a2a8b68a380a456ef4bd0d9c947cd2d8c2ef5a46863c61f4"
+    }
+  }
+}
